@@ -4,7 +4,7 @@
 <img src='http://image.prntscr.com/image/3f9b1ce0713b4e188d0bba58ca00c517.png' width='400' height='200' alt='Hosted by Umbler'>
 </a>
 </center>
-- User e ajuda-nós a manter o servidor ativo :)
+- Cliquem Na Image, Cadastre-se e ajuda-nós a manter o servidor ativo :)
 
 # Sobre O "T-MySQL"
 Um Simples sistema De Teste Para Servidor MySQL/PHP
