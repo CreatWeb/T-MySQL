@@ -1,8 +1,9 @@
 # Para Teste Usamos Servidores Da:
-
+<center>
 <a href='http://bit.ly/2fxfnxl'>
-	<img src='http://image.prntscr.com/image/3f9b1ce0713b4e188d0bba58ca00c517.png' width='100%' alt='Hosted by Umbler'>
+<img src='http://image.prntscr.com/image/3f9b1ce0713b4e188d0bba58ca00c517.png' width='400' height='200' alt='Hosted by Umbler'>
 </a>
+</center>
 - User e ajuda-nós a manter o servidor ativo :)
 
 # Sobre O "T-MySQL"
