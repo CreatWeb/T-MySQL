@@ -5,6 +5,7 @@
 </a>
 </center>
 - Cliquem Na Image, Cadastre-se e ajuda-nós a manter o servidor ativo :)
+  *  Ganhe R$25 De Bonus + R$100 Na Instrução Para Manter Sites Online... *
 
 # Sobre O "T-MySQL"
 Um Simples sistema De Teste Para Servidor MySQL/PHP
