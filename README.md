@@ -1,3 +1,10 @@
+# Para Teste Usamos Servidores Da:
+
+<a href='http://bit.ly/2fxfnxl'>
+	<img src='http://image.prntscr.com/image/3f9b1ce0713b4e188d0bba58ca00c517.png' width='100%' alt='Hosted by Umbler'>
+</a>
+- User e ajuda-nós a manter o servidor ativo :)
+
 # Sobre O "T-MySQL"
 Um Simples sistema De Teste Para Servidor MySQL/PHP
 Nada pra fazer deu vontade mexe com isso e trazer para a GitHub :)
